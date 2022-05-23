@@ -1,2 +1,5 @@
 # teste-curso-Dio
-atividade do bootcamp GFT
+
+Atividade do bootcamp GFT
+
+ Algumas anotações dos cursos
